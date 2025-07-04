@@ -1,7 +1,9 @@
+body{
+  background-color: #ecdfcc;
+}
 .Header {
   color: #3c3d37;
   position: sticky;
-  background-color: #ecdfcc;
   font-family: Arial;
   padding-left: 5%;
   text-align: center;
