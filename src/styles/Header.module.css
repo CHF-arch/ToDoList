@@ -1,0 +1,31 @@
+.Header {
+  color: #3c3d37;
+  position: sticky;
+  background-color: #ecdfcc;
+  font-family: Arial;
+  padding-left: 5%;
+  text-align: center;
+}
+.h1 {
+  color: #3c3d37;
+  padding-top: 2%;
+  text-decoration: none;
+  text-align: center;
+}
+.h1:hover {
+  color: #697565;
+}
+.a {
+  color: #3c3d37;
+  border: 3px solid #3c3d37;
+  border-radius: 10%;
+  margin-left: 40%;
+  padding: 10px;
+  text-decoration: none;
+}
+.a:hover {
+  background-color: #697565;
+  color: white;
+  border: 3px solid #697565;
+  text-decoration: none;
+}
